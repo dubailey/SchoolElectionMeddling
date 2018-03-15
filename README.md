@@ -8,6 +8,7 @@ steps:
 pip install gspread oauth2client 
 download http://darcs.idyll.org/~t/projects/twill-0.9.tar.gz
 cd twill-0.9
+go into setup.py and change the first print statement to print(.....)
 python setup.py build
 python setup.py install
 clone repo
