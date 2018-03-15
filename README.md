@@ -5,7 +5,7 @@ https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-sp
 https://stackoverflow.com/questions/2651334/how-can-i-start-using-twill
 
 steps:
-pip install gspread oauth2client \n
+pip install gspread oauth2client 
 download http://darcs.idyll.org/~t/projects/twill-0.9.tar.gz
 cd twill-0.9
 python setup.py build
