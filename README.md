@@ -5,6 +5,6 @@ https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-sp
 https://www.hongkiat.com/blog/automate-create-login-bot-python-selenium/
 
 steps:
-pip install gspread oauth2client 
+pip install gspread oauth2client selenium
 
 clone repo
